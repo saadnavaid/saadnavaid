@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Typescript, Javascript
 - 💞️ I’m looking to collaborate on AI, Metaverse, Cloud Generative AI
 - 📫 How to reach me email on navaid.saad@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am new to coding and don't have any background.
 
 <!---
